@@ -1,0 +1,106 @@
+.myban{
+    background-color: #2D5356;
+    min-height: 100vh;
+	background-position:bottom center;
+    display:flex;
+	align-items:center;
+	justify-content:flex-start;
+}
+a{
+   
+    border: none;
+}
+.mynav{
+    position: fixed;
+    background-color: white;
+    z-index: 100;
+    border-bottom: 5px solid  #D09423;
+}
+.btn{
+    background-color: #D09423 !important;
+    outline: none;
+    border: none;
+}
+.myban h1{
+	font-weight:800;
+	font-size:50px;
+	line-height:1.3;
+	margin-bottom:20px;
+	text-transform:uppercase;
+	color:white;
+	letter-spacing:5px;
+}
+.mymenu{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.btn-flash{
+    width: 30%;
+    justify-content: end;
+}
+.mync{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border: 3px solid #D09423;
+    border-radius: 30px !important;
+    margin-bottom: 100px;
+}
+.mync ul li{
+    list-style-type: none;
+}.mytrend{
+   padding-top: 100px;
+    padding-bottom: 100px;
+}
+.mytrendcol{
+    background-color: #2D5356;
+
+}
+.myoffer{
+    width:90%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.mytest{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #2D5356;
+    border-radius: 30px !important;
+}
+.myfaq{
+    padding-top: 50px;
+    padding-bottom: 100px;
+
+}
+.mycontact{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.myend{
+    background-color: #2D5356;
+}
+.myex{
+    background-image:linear-gradient(to left,rgba(0,0,0,0.6),rgba(0,0,0,0.4)),url(img/offer.jpg) !important;
+    min-height: 300px;
+    min-width: 50%;
+    color: #fff;
+    background-size:cover;
+	background-position:bottom center;
+    
+}
+.myreg{
+    min-height: 300px;
+    min-width: 50%;
+}
+.navtag{
+    border: none;
+
+}
+.footer ul li {
+   
+    list-style: none;
+    color: #000;
+}
+.footer a{
+    text-decoration:none !important;
+ 
+}
